@@ -5,3 +5,5 @@ Made with [SolidJS](https://www.solidjs.com/), [Vite](https://vite.dev/), and [T
 Font - [Geist](https://fonts.google.com/specimen/Geist)
 
 Icons - [RemixIcon](https://remixicon.com/)
+
+![logo](/src/assets/logo/MatthewIves.svg)
