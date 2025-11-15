@@ -1,4 +1,3 @@
-## razra Portfolio Website
 ![logo](/src/assets/logo/MatthewIves.svg)
 
 Made with [SolidJS](https://www.solidjs.com/), [Vite](https://vite.dev/), and [TailwindCSS](https://tailwindcss.com/)
