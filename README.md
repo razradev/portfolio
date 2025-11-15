@@ -1,5 +1,7 @@
 ## razra Portfolio Website
 
-Made with [SolidJS](https://www.solidjs.com/), [Vite](https://vite.dev/), and [TailwindCSS](https://tailwindcss.com/).
+Made with [SolidJS](https://www.solidjs.com/), [Vite](https://vite.dev/), and [TailwindCSS](https://tailwindcss.com/)
+
 Font - [Geist](https://fonts.google.com/specimen/Geist)
+
 Icons - [RemixIcon](https://remixicon.com/)
