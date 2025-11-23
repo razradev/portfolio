@@ -1,20 +1,17 @@
-/*
-  Access-Control-Allow-Origin: *
-
 /games/*
   Access-Control-Allow-Origin: *
 
 /games/*/Build/*
   Cache-Control: no-store
 
-/games/*/Build/*.br
-  Content-Encoding: br
-
 /games/*/Build/*.data.br
   Content-Type: application/octet-stream
+  Content-Encoding: br
 
 /games/*/Build/*.wasm.br
   Content-Type: application/wasm
+  Content-Encoding: br
 
 /games/*/Build/*.js.br
   Content-Type: application/javascript
+  Content-Encoding: br
