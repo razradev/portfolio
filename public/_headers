@@ -12,3 +12,7 @@
 /games/*/Build/*.js.br
   Content-Type: application/javascript
   Content-Encoding: br
+
+/games/*/Build/*.framework.js.br
+  Content-Type: application/javascript
+  Content-Encoding: br
