@@ -5,6 +5,7 @@ import "solid-devtools";
 
 import { Route, Router } from "@solidjs/router";
 import Home from "./Home";
+import Snetro from "./games/Snetro";
 
 const root = document.getElementById("root");
 
@@ -19,6 +20,7 @@ render(
     <div class="p-16 max-w-7xl mx-auto">
       <Router>
         <Route path="/" component={Home} />
+        <Route path="/games/snetro" component={Snetro} />
       </Router>
     </div>
   ),
