@@ -1,19 +1,20 @@
 /*
   Access-Control-Allow-Origin: *
 
+/games/*
+  Access-Control-Allow-Origin: *
+
+/games/*/Build/*
+  Cache-Control: no-store
+
 /games/*/Build/*.br
   Content-Encoding: br
 
-/games/*/Build/*.data
+/games/*/Build/*.data.br
   Content-Type: application/octet-stream
 
-/games/*/Build/*.wasm
+/games/*/Build/*.wasm.br
   Content-Type: application/wasm
-  Cross-Origin-Opener-Policy: same-origin
-  Cross-Origin-Embedder-Policy: require-corp
 
-/games/*/Build/*.js
+/games/*/Build/*.js.br
   Content-Type: application/javascript
-
-/games/*/Build/*.json
-  Content-Type: application/json
